@@ -68,7 +68,7 @@
 			</tr>
 		</table>
 	</div>
-	<h1 class="titleWhiteText">Travel Blog</h1>
+	<h1 class="titleWhiteText">Impromptu</h1>
 
 	<%
 		List<BlogPost> blogPosts = BlogDAO.INSTANCE.getBlogPosts();
@@ -158,7 +158,7 @@
 		} else
 		{
 	%>
-	<h3>There are no posts.</h3>
+	<h3 style="color: #FFFFFF">There are no posts.</h3>
 	<%
 		}
 	%>

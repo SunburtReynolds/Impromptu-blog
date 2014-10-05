@@ -51,12 +51,12 @@
 			</tr>
 		</table>
 	</div>
-	<h1 class="titleWhiteText">Travel Blog</h1>
+	<h1 class="titleWhiteText">Impromptu</h1>
 
 	<div class="darkBackground" style="padding-bottom: 20px;">
 		<h1 class="headingWhiteText" style="color: #FFFFFF">Bummer</h1>
 		<p class="lesserWhiteText" style="text-align: left; padding: 0px;">You
-			have successfully unsubscribed from the Travel Blog. We are sad to see you go.</p>
+			have successfully unsubscribed from the Impromptu blog. We are sad to see you go.</p>
 	</div>
 	<div class="unsubFooter" style="position: absolute;">
 		<b><a style="color: #FFFFFF;" href="unsubscribe.jsp">unsubscribe</a></b>

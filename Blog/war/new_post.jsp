@@ -51,7 +51,7 @@
 			</tr>
 		</table>
 	</div>
-	<h1 class="titleWhiteText">Travel Blog</h1>
+	<h1 class="titleWhiteText">Impromptu</h1>
 
 	<div class="darkBackground">
 		<h1 class="headingWhiteText" style="color: #FFFFFF">New Post</h1>
